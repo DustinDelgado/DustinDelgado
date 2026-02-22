@@ -15,4 +15,4 @@
 [<img align="left" alt="Dustin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: [dustin-delgado-0b534b160/](https://www.linkedin.com/in/dustin-delgado-0b534b160/)
+[linkedin]:https://www.linkedin.com/in/dustin-delgado-0b534b160/
